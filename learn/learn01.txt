@@ -2,3 +2,5 @@ Git is a very intersting tools,
 Let's study it!
 12345
 branch test!
+feature1 go go go!
+Feature1 is different fromddd master.
